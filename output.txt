@@ -1,0 +1,15 @@
+"C:\Program Files\Java\jdk-10.0.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=55305:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\dougw\IdeaProjects\Tester\out\production\Tester Main
+1
+5
+Index 0: 1
+Index 1: 2
+Index 2: 3
+Index 3: 4
+Index 4: 5
+How many numbers do you want to add? 3
+Value 0: 123
+Value 1: 234
+Value 2: 345
+Sum: 702
+
+Process finished with exit code 0
